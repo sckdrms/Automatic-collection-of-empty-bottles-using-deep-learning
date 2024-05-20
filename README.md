@@ -8,6 +8,7 @@
 
 ### 목적
 일반 가정집에서는 공병을 따로 반환하지 않는다. 주로 매장에서 공병을 회수하지만 너무 번거로운 게 현실이다. 또한, 재활용 용품으로 분류되는 플라스틱, 병, 캔 등을 재활용을 못 하고 버려져 환경문제로도 의식이 높아지고 있다. 그러한 이유로 세계적으로나 전국적으로나 공병 무인 회수기 설치가 증가되고 있다. 하지만 기존의 공병 무인회수기는 생산 및 유지보수 비용으로 한 기기당 2000만원~3000만원 이상으로 비싸며 공병이 1개씩 인식되는 불편함이 존재한다. 이러한 문제를 AI를 활용한 객체 인식을 활용하여 해결하고자 한다.
+
 ![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/b7d6d996-82f5-4265-9610-a64cad6083d8)
 ![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/45d22392-a9fc-4a6b-8906-2704736d963a)
 
