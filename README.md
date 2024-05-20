@@ -32,13 +32,13 @@
 
 ##### 사용자 인터페이스(UI)
 1. 대기화면
-![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/610f482e-7a12-44ff-9af0-25b07c9e1ef2)
+![image](https://github.com/sckdrms/Automatic-collection-of-empty-bottles-using-deep-learning/assets/56631950/11361818-e3f0-44fa-b9ef-96bea0368b49)
 
 2. 처리화면
 ![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/72d92957-fd57-4a2d-9cf8-660a5132b29c)
 
 3. 결과화면
-![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/e2296bd1-7503-4c02-9bd6-b4acdcdc1022)
+![image](https://github.com/sckdrms/Automatic-collection-of-empty-bottles-using-deep-learning/assets/56631950/6d1e8dbf-8634-4871-9843-5f5d8bc0916c)
 
 ##### 인식 테스팅
 ![recog](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/82214fd5-5ed5-4b03-8211-e17710d5b212)
