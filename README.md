@@ -35,7 +35,7 @@
 ![image](https://github.com/sckdrms/Automatic-collection-of-empty-bottles-using-deep-learning/assets/56631950/9e71a2d9-52f3-4ca8-93e7-4e4224a8505d)
 
 2. 처리화면
-![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/72d92957-fd57-4a2d-9cf8-660a5132b29c)
+![image](https://github.com/sckdrms/Automatic-collection-of-empty-bottles-using-deep-learning/assets/56631950/70386c85-6f55-4159-912d-3a501a82f65b)
 
 3. 결과화면
 ![image](https://github.com/sckdrms/Automatic-collection-of-empty-bottles-using-deep-learning/assets/56631950/f1e977db-0c50-4f8c-bece-cfef3944256c)
