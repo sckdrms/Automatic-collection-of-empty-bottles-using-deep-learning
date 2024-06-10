@@ -21,7 +21,6 @@
 
 ### 시스템 구성도
 ![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/e2ba7a36-54af-4102-aab5-f7f9180a2899)
-![image](https://github.com/sckdrms/study/assets/56631950/70478dd6-115f-47c6-b706-322a7d51d7b4)
 
 * * *
 
