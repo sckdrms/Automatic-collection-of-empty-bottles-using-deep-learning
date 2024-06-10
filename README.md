@@ -21,13 +21,10 @@
 
 ### 시스템 구성도
 ![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/e2ba7a36-54af-4102-aab5-f7f9180a2899)
-
+![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/f898b41a-c63d-4b77-96f6-000347bb4bc6)
 * * *
 
 ### 결과물 사진
-
-##### 시스템 구성도
-![image](https://github.com/sckdrms/Vehicle-data-analysis-dashboard-for-sudden-acceleration-accidents/assets/56631950/f898b41a-c63d-4b77-96f6-000347bb4bc6)
 
 ##### 사용자 인터페이스(UI)
 1. 대기화면
